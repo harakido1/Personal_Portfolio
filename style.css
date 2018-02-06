@@ -1,0 +1,30 @@
+body {
+  background-color: #ccc;
+  padding-top: 40px;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.navbar-brand {
+  font-size: 1.5em;
+  font-family: Lobster;
+  background-color: #a9a9ef;
+  color: #101078;
+  height: 3.7em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.btn {
+  font-family: Lobster;
+  font-size: 1.2em;
+  border: 1px solid black;
+}
+
+.form-control {
+  border: 3px solid #0275d8;
+}
